@@ -9,11 +9,11 @@ div {
 /* Nav bar style code below */
 ul.nav {
   padding-left: 0px;
-  background-color: #ffc251;
+  /* background-color: #ffc251; */
   text-align: left;
 }
 ul.nav > li {
-  display: inline-block;
+  display: inline;
   padding: 10px 20px;
 }
 ul.nav > li:hover {
