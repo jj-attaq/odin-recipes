@@ -25,3 +25,21 @@ ul.nav > li > a {
   color: rgb(0, 0, 0);
   text-decoration: none;
 }
+
+/*  */
+ul.nxt-prev {
+  padding-left: 0px;
+  text-align: center;
+  padding-left: 0px;
+}
+ul.nxt-prev > li {
+  display: inline;
+  padding: 10px 20px;
+}
+ul.nxt-prev > li:hover {
+  background-color: #27bfbf;
+}
+ul.nxt-prev > li > a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
