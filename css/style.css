@@ -26,7 +26,7 @@ ul.nav > li > a {
   text-decoration: none;
 }
 
-/*  */
+/* Previous and Next recipe nav buttons */
 ul.nxt-prev {
   padding-left: 0px;
   text-align: center;
