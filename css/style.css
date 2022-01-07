@@ -1,0 +1,25 @@
+/* Global style */
+* {
+  background-color: wheat;
+}
+div {
+  text-align: justify;
+}
+
+/* Nav bar style code below */
+ul.nav {
+  padding-left: 0px;
+  background-color: #ffc251;
+  text-align: left;
+}
+ul.nav > li {
+  display: inline-block;
+  padding: 10px 20px;
+}
+ul.nav > li:hover {
+  background-color: #27bfbf;
+}
+ul.nav > li > a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
