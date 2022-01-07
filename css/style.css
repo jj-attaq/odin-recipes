@@ -6,6 +6,16 @@
 div {
   text-align: justify;
 }
+img {
+  height: auto;
+  width: 400px;
+  border-radius: 20px;
+}
+img.recipes {
+  height: auto;
+  width: 300px;
+  border-radius: 20px;
+}
 
 /* Nav bar style code below */
 ul.nav {
