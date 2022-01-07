@@ -1,6 +1,7 @@
 /* Global style */
 * {
-  background-color: wheat;
+  background-color: blanchedalmond;
+  font-family: "Courier New", Courier, monospace;
 }
 div {
   text-align: justify;
@@ -9,8 +10,9 @@ div {
 /* Nav bar style code below */
 ul.nav {
   padding-left: 0px;
-  /* background-color: #ffc251; */
+  background-color: #ffc251;
   text-align: left;
+  padding-left: 0px;
 }
 ul.nav > li {
   display: inline;
