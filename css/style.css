@@ -1,17 +1,29 @@
 /* Global style */
-* {
+html {
   background-color: blanchedalmond;
   font-family: "Courier New", Courier, monospace;
+  margin: 0 100px 0;
 }
+
+/*
+* {
+  border: 2px solid red;
+} */
+
 div {
-  text-align: justify;
+  margin: 0 100px 0;
 }
 img {
+  float: left;
+  margin-right: 50px;
   height: auto;
   width: 400px;
   border-radius: 20px;
 }
 img.recipes {
+  float: left;
+  margin-right: 50px;
+  margin-bottom: 10px;
   height: auto;
   width: 250px;
   border-radius: 20px;
@@ -19,6 +31,7 @@ img.recipes {
 
 /* Nav bar style code below */
 ul.nav {
+  display: inline - block;
   padding-left: 0px;
   background-color: #ffc251;
   text-align: left;
